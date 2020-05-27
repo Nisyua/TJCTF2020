@@ -14,6 +14,7 @@ tjctf{we_love_wumpus}
 Pada Deskripsi soal sudah tertera sebuah ***hint*** berupa `Come chat with us!`yang berarti kita sebagai peserta diharapkan untuk menekan menu `Chat` pada NavBar TJCTF 2020 yang nantinya mengarahkan kita ke sebuah Server TJCTF di Discord . 
 
 Terdapat beberapa channel yang ada , dan Flag ditemukan pada channel Announcement . 
-![](Miscellaneous/Discord/flag.png)
+
+![](https://github.com/nissyua/TJCTF2020/blob/master/Miscellaneous/Discord/flag.png)
 
 

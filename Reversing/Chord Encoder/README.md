@@ -5,7 +5,8 @@ I tried creating my own chords, but my encoded sheet music is a little hard to r
 
 ## Flag
 Flag yang dihasilkan dari persoalan berikut adalah 
-```flag{zats_wot_1_call_a_meloD}
+```
+flag{zats_wot_1_call_a_meloD}
 ```
 
 ## Solusi

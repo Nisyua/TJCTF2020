@@ -15,5 +15,6 @@ untuk mengetahui file pada folder berapa flag tersebut berada, kita dapat menggu
 ```
 cat */*.txt
 ```
-dan hasilnya seperti berikut
+dan hasilnya seperti berikut :
+
 ![](https://github.com/nissyua/TJCTF2020/blob/master/Miscellaneous/Zipped%20Up/flag.png)

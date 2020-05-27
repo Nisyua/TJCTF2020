@@ -5,7 +5,7 @@ My friend changed the password of his Minecraft account that I was using so that
 
 ## Flag
 ```
-tjctf{}
+tjctf{p3sky_zip_f1L35}
 ```
 
 ## Solusi

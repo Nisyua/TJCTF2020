@@ -15,6 +15,7 @@ tjctf{TH3_1llum1n4ti_I_R3aL}
 
 Jalankan wireshark pada Linux. 
 Setelah wireshark dijalankan, maka buka terminal baru untuk menjalankan nc p1.tjctf.org 8003. Jawab pertanyaan penjumlahan sederhana yang diberikan. Akan muncul flag tjctf{[CENSORED]}.
+
 ![](https://github.com/nissyua/TJCTF2020/blob/master/Miscellaneous/Censorship/terminal.png)
 ![](https://github.com/nissyua/TJCTF2020/blob/master/Miscellaneous/Censorship/ws.png)
 ![](https://github.com/nissyua/TJCTF2020/blob/master/Miscellaneous/Censorship/flag.png)
